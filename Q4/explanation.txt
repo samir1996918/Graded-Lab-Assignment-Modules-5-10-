@@ -1,0 +1,2 @@
+This script extracts valid email addresses using a regular expression.
+Valid emails are stored in valid.txt after removing duplicates, and invalid emails are stored in invalid.txt.
