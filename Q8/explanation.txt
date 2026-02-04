@@ -1,0 +1,2 @@
+This script moves files from a directory into a backup folder using background processes.
+It displays the PID of each background move operation and waits until all processes finish.
