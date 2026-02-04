@@ -1,0 +1,2 @@
+The script checks whether the given argument is a file or directory.
+For a file, it displays the number of lines, words, and characters using the wc command.
