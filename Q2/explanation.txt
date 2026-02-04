@@ -1,0 +1,2 @@
+This script analyzes a log file passed as a command-line argument.
+It counts the total log entries, different log levels, and extracts the most recent ERROR message.
