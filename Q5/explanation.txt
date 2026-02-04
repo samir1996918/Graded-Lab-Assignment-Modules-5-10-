@@ -1,0 +1,2 @@
+This script compares two directories to identify unique files and common files.
+For common files, it checks whether their contents differ using the cmp command.

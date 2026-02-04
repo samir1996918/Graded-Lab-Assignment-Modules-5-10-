@@ -1,0 +1,8 @@
+Files only in dirA:
+file1.txt
+
+Files only in dirB:
+file3.txt
+
+Common files with different content:
+file2.txt differs
