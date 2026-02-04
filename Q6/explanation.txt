@@ -1,0 +1,2 @@
+This script processes words from a text file to determine word length statistics.
+It finds the longest, shortest, average word length, and counts unique words using text processing commands.
