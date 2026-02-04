@@ -1,0 +1,6 @@
+Ravi failed in exactly one subject
+Anita passed all subjects
+Suresh failed in exactly one subject
+Priya passed all subjects
+Total students passed all subjects: 2
+Total students failed exactly one subject: 2

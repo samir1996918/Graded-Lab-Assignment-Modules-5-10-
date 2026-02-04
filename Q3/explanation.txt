@@ -1,0 +1,2 @@
+This script reads student marks from marks.txt and checks each subject score.
+It identifies students who passed all subjects or failed in exactly one subject and counts them.
