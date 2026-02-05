@@ -1,0 +1,2 @@
+This program demonstrates signal handling using SIGTERM and SIGINT.
+Child processes send signals after fixed delays, and the parent process handles them differently before exiting gracefully.
