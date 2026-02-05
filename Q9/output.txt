@@ -1,0 +1,6 @@
+Child created with PID: 7013
+Child created with PID: 7014
+Child created with PID: 7015
+Parent cleaned child with PID: 7013
+Parent cleaned child with PID: 7014
+Parent cleaned child with PID: 7015

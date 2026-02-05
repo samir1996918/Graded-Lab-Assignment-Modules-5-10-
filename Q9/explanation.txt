@@ -1,0 +1,2 @@
+This program creates multiple child processes using fork().
+The parent process uses wait() to clean terminated child processes, preventing zombie processes.
